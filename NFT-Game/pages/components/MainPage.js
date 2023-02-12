@@ -81,7 +81,7 @@ const MainPage = () => {
   return (
     <div className="p-5">
       <div className="bg-white w-80 p-2 rounded-md">
-        <i class="bx bx-search-alt-2"></i>
+        <i className="bx bx-search-alt-2"></i>
         <input
           className="border-none outline-none"
           type="text"
@@ -108,7 +108,7 @@ const MainPage = () => {
           <div className="text-white">
             <h1 className="text-2xl">Name: Jokoyoski Makanga</h1>
             <div>
-              {/* <Connector /> */}
+              {<Connector /> }
             </div>
           </div>
         </div>

@@ -10,7 +10,7 @@ const LeftSide = () => {
   return (
     <div className="p-5">
       <div className="flex justify-between">
-        <i class="bx bx-bell text-2xl"></i>
+        <i className="bx bx-bell text-2xl"></i>
         <div className="flex gap-2">
           <img
             src="http://www.playtoearn.online/wp-content/uploads/2021/10/Clone-X-NFT-avatar.png"
